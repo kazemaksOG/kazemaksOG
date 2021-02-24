@@ -1,8 +1,8 @@
 # Hi!
 
-Welcome to my almost empty Github account! 
+Welcome to my Github account! 
 
-Because I only work on my personal projects and use 1 computer, I rarely push anything up here, hence my lack of github activity. But for your entertainment, I pushed up some of my favorite projects.
+You can check out some of my personal and group projects.
 
 Enjoy!
 <!--
