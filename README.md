@@ -2,7 +2,9 @@
 
 Welcome to my Github account! 
 
-You can check out some of my personal and group projects.
+Most of my projects are in Delft University of Technology Gitlab servers :/
+
+Everything else I worked on in my free time and was allowed to release can be seen here!
 
 Enjoy!
 <!--
